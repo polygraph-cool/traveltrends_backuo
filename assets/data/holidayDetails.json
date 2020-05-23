@@ -1,0 +1,91 @@
+[{
+  "holiday": "Lunar New Year",
+  "abb": "u",
+  "dep": "Wed Jan 30",
+  "ret": "Tue Feb 12",
+  "checkin": "2020-01-29",
+  "checkout": "2020-02-12",
+  "defaultCity": "Prague",
+  "year": "2020"
+}, {
+  "holiday": "December Holidays",
+  "abb": "x",
+  "dep": "Fri Dec 21",
+  "ret": "Fri Jan 04",
+  "checkin": "2019-12-21",
+  "checkout": "2020-01-04",
+  "defaultCity": "Lisbon",
+  "year": "2020"
+}, {
+  "holiday": "Thanksgiving",
+  "abb": "t",
+  "dep": "Thu Nov 22",
+  "ret": "Sun Nov 25",
+  "checkin": "2019-11-22",
+  "checkout": "2019-11-25",
+  "defaultCity": "Rome",
+  "year": "2019"
+}, {
+  "holiday": "Canadian Thanksgiving",
+  "abb": "c",
+  "dep": "Thu Oct 11",
+  "ret": "Mon Oct 15",
+  "checkin": "2019-10-11",
+  "checkout": "2019-10-15",
+  "defaultCity": "Perissa",
+  "year": "2019"
+}, {
+  "holiday": "Labor Day",
+  "abb": "l",
+  "dep": "Thu Aug 30",
+  "ret": "Tue Sep 04",
+  "checkin": "2019-08-30",
+  "checkout": "2019-09-04",
+  "defaultCity": "Numazu",
+  "year": "2019"
+},{
+  "holiday": "Fourth of July",
+  "abb": "f",
+  "dep": "Tue Jul 03",
+  "ret": "Sat Jul 07",
+  "checkin": "2019-07-03",
+  "checkout": "2019-07-07",
+  "defaultCity": "Chicago",
+  "year": "2019"
+} ,{
+  "holiday": "Memorial Day",
+  "abb": "e",
+  "dep": "Thu May 24",
+  "ret": "Tue May 29",
+  "checkin": "2019-05-24",
+  "checkout": "2019-05-29",
+  "defaultCity": "Da Nang",
+  "year": "2019"
+},{
+  "holiday": "Spring Break",
+  "abb": "s",
+  "dep": "Sat Mar 24",
+  "ret": "Sat Mar 31",
+  "checkin": "2019-03-24",
+  "checkout": "2019-03-31",
+  "defaultCity": "Phoenix",
+  "year": "2019"
+}, {
+  "holiday": "Presidents' Day Weekend",
+  "abb": "p",
+  "dep": "Thu Feb 15",
+  "ret": "Tue Feb 20",
+  "checkin": "2019-02-15",
+  "checkout": "2019-02-20",
+  "defaultCity": "Honolulu",
+  "year": "2019"
+}, {
+  "holiday": "Martin Luther King Jr. Weekend",
+  "abb": "m",
+  "dep": "Thu Jan 11",
+  "ret": "Mon Jan 15",
+  "checkin": "2019-01-11",
+  "checkout": "2019-01-15",
+  "defaultCity": "Tulum",
+  "year": "2019"
+}]
